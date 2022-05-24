@@ -1,6 +1,6 @@
 # HeadRoom
 
-by Martin Fröhlich
+by Martin Fröhlich https://tecartlab.com/features/
 
 ## Overview
 
